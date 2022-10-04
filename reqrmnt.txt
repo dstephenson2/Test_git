@@ -2,3 +2,4 @@ pandas
 numpy
 scikit
 matplotlib.py
+pandas profiling
