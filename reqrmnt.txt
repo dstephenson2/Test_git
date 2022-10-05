@@ -3,3 +3,4 @@ numpy
 scikit
 matplotlib.py
 pandas profiling
+git
